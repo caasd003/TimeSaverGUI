@@ -1,6 +1,6 @@
 # Time Saver GUI Application
 
-![Alternativ text](TimeSaverGUI/IMG_0573.png)
+
 
 
 **Description:**
