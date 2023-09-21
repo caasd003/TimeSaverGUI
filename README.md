@@ -1,5 +1,8 @@
 # Time Saver GUI Application
 
+![Alternativ text](TimeSaverGUI/IMG_0573.png)
+
+
 **Description:**
 --------------
 Time Saver is a simple GUI application built with Rust and GTK. 
